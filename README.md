@@ -25,9 +25,9 @@ Ever wished you could just talk to your database? Now you can! This project brin
    cd Chatting-with-SQL-Database
    ```
 
-2. Install the magic ingredients:
+2. Install the magic ingredients (you will see this on the 1st line of the code):
    ```bash
-   pip install -r requirements.txt
+   pip install (run the code line by line)
    ```
 
 3. Set up your SQL database and tweak the connection details in the notebook.
